@@ -4,7 +4,7 @@
 
 This is an animated clock project created using JavaScript and CSS. The clock displays the current time with an hour, minute, and second hand, and features a clean, minimalistic design.
 
-## --> [View Project](#)
+## --> [View Project](https://anirudha-8.github.io/Animated-Clock/)
 
 ## Features
 
